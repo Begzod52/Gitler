@@ -36,7 +36,7 @@ const Contact = () => {
             <form onSubmit={onSubmit}>
                 <h2>Contact Form</h2>
                 <div className="input-box">
-                    <label>IBO GITLER</label>
+                    <label>ABU GITLER</label>
                     <input type="text" className="field" placeholder='Enter your name' name='name' required />
                 </div>
                 <div className="input-box">
